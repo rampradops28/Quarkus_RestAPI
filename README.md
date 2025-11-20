@@ -11,9 +11,9 @@ This is a simple RESTful CRUD application built with **Quarkus** and **MySQL**.
 
 ## Project Structure
 
-- `domain/Person.java` – JPA entity representing a person.
-- `controller/restApi.java` – REST endpoints for CRUD operations.
-- `controller/PersonModel.java` – Data transfer object (DTO) for API requests.
+- `Person.java` – JPA entity representing a person.
+- `restApi.java` – REST endpoints for CRUD operations.
+- `PersonModel.java` – Data transfer object (DTO) for API requests.
 
 ## REST Endpoints
 
